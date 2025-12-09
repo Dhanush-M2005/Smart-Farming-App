@@ -14,21 +14,23 @@ A comprehensive Flutter-based mobile application designed to empower farmers wit
 *   **🗣️ Multi-language Support**: Full support for English, Hindi, Punjabi, and Tamil. Includes Text-to-Speech (TTS) and Speech-to-Text (STT) for accessibility.
 *   **📊 Soil Health Analysis**: Tools to analyze soil health and recommend fertilizers (Integration with NPK sensors/data).
 
-## 📸 Screenshots
+### 📱 App Screenshots
 
-### App Overview
-
-| Home & Dashboard | Market Prices | AI Chatbot |
+| **Home & Dashboard** | **Live Market Prices** | **Weather Forecast** |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/home.png" width="300" /> | <img src="assets/screenshots/market.png" width="300" /> | <img src="assets/screenshots/chatbot.png" width="300" /> |
+| <img src="assets/screenshots/home.png" width="300" /> | <img src="assets/screenshots/market.png" width="300" /> | <img src="assets/screenshots/weather.png" width="300" /> |
 
-### Disease Detection Feature
-
-| Scanning Leaf | Detection Result |
+| **Disease Detection** | **AI Agri-Chatbot** |
 |:---:|:---:|
-| <img src="assets/screenshots/disease.png" width="300" /> | <img src="assets/screenshots/disease_result.png" width="300" /> |
+| <img src="assets/screenshots/disease.png" width="300" /> | <img src="assets/screenshots/chatbot.png" width="300" /> |
 
-> *Note: More screenshots coming soon!*
+### ✨ Key Features in Detail
+
+*   **🦠 AI Disease Detection**: Identify plant diseases like *Bacterial Blight* instantly by scanning a leaf. Get confidence scores, causes, and remedies.
+*   **🛒 APMC Market (Mandi) Prices**: View real-time prices for crops like Tomato, Wheat, and Onion across different states (e.g., Punjab) and districts.
+*   **🤖 Smart Chatbot**: Ask questions in your local language! (e.g., "Rice price in Tamil Nadu?") and get instant answers.
+*   **🌦️ Precise Weather**: Get location-based weather updates, including temperature, rainfall, and 5-day forecasts.
+
 
 ## 🛠️ Tech Stack
 

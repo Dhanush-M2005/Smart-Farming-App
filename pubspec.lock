@@ -368,13 +368,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_tflite:
-    dependency: "direct main"
-    description:
-      path: "packages/flutter_tflite"
-      relative: true
-    source: path
-    version: "1.0.1"
   flutter_tts:
     dependency: "direct main"
     description:

@@ -1,6 +1,6 @@
 # Smart Farming App 🌾
 
-A comprehensive Flutter-based mobile application designed to empower farmers with modern technology. This app integrates AI, Machine Learning, and Real-time data to assist in sustainable and efficient farming.
+A comprehensive mobile application presenting intelligent farming solutions, designed to address critical challenges like crop diseases, market volatility, and weather uncertainty using Gemini AI.
 
 ![App Banner](assets/images/logo.png)
 
@@ -26,7 +26,7 @@ A comprehensive Flutter-based mobile application designed to empower farmers wit
 
 ### ✨ Key Features in Detail
 
-*   **🦠 AI Disease Detection**: Identify plant diseases like *Bacterial Blight* instantly by scanning a leaf. Get confidence scores, causes, and remedies.
+*   **🦠 AI Disease Detection**: Identify plant diseases like *Bacterial Blight* instantly by scanning a leaf. Powered by **Google Gemini AI** for accurate diagnosis and remedies.
 *   **🛒 APMC Market (Mandi) Prices**: View real-time prices for crops like Tomato, Wheat, and Onion across different states (e.g., Punjab) and districts.
 *   **🤖 Smart Chatbot**: Ask questions in your local language! (e.g., "Rice price in Tamil Nadu?") and get instant answers.
 *   **🌦️ Precise Weather**: Get location-based weather updates, including temperature, rainfall, and 5-day forecasts.
@@ -38,7 +38,6 @@ A comprehensive Flutter-based mobile application designed to empower farmers wit
 *   **Language**: Dart
 *   **AI/ML**:
     *   Google Gemini AI (`google_generative_ai`)
-    *   TensorFlow Lite (`flutter_tflite`)
 *   **Backend & Auth**: Firebase (Auth, Firestore, Realtime Database)
 *   **State Management**: Provider
 *   **Localization**: `easy_localization`

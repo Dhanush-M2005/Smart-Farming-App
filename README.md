@@ -36,8 +36,6 @@ A comprehensive mobile application presenting intelligent farming solutions, des
 
 *   **Framework**: [Flutter](https://flutter.dev/)
 *   **Language**: Dart
-*   **AI/ML**:
-    *   Google Gemini AI (`google_generative_ai`)
 *   **Backend & Auth**: Firebase (Auth, Firestore, Realtime Database)
 *   **State Management**: Provider
 *   **Localization**: `easy_localization`

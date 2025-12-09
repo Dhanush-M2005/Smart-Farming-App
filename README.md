@@ -16,15 +16,19 @@ A comprehensive Flutter-based mobile application designed to empower farmers wit
 
 ## 📸 Screenshots
 
-| Home & Dashboard | Disease Detection | AI Chatbot |
-|:---:|:---:|:---:|
-| <img src="assets/screenshots/home.png" width="250" /> | <img src="assets/screenshots/disease.png" width="250" /> <br> <img src="assets/screenshots/disease_result.png" width="250" /> | <img src="assets/screenshots/chatbot.png" width="250" /> |
+### App Overview
 
-| Market Prices | Weather | Language Selection |
+| Home & Dashboard | Market Prices | AI Chatbot |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/market.png" width="250" /> | <img src="assets/screenshots/weather.png" width="250" /> | <img src="assets/screenshots/language.png" width="250" /> |
+| <img src="assets/screenshots/home.png" width="300" /> | <img src="assets/screenshots/market.png" width="300" /> | <img src="assets/screenshots/chatbot.png" width="300" /> |
 
-> *Note: Please add screenshots to `assets/screenshots/` with the filenames mentioned above.*
+### Disease Detection Feature
+
+| Scanning Leaf | Detection Result |
+|:---:|:---:|
+| <img src="assets/screenshots/disease.png" width="300" /> | <img src="assets/screenshots/disease_result.png" width="300" /> |
+
+> *Note: More screenshots coming soon!*
 
 ## 🛠️ Tech Stack
 

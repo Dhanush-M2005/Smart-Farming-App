@@ -2,9 +2,10 @@ import 'dart:convert';
 import 'package:farmer_app/models/weather_model.dart';
 import 'package:http/http.dart' as http;
 import 'package:geolocator/geolocator.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 class WeatherService {
-  static const String _apiKey = 'bff1b5d56ba40dba6e15a335b4014c88';
+  static String get _apiKey => dotenv.env['WEATHER_API_KEY'] ?? "";
   static const String _baseUrl = 'https://api.openweathermap.org/data/2.5';
 
   Future<Weather> fetchCurrentWeather(String city, {String lang = 'en'}) async {

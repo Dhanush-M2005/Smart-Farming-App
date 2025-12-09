@@ -11,7 +11,7 @@ import 'package:intl/intl.dart';
 
 class ApiService {
   // Config
-  static const String _ogdApiKey = "579b464db66ec23bdd00000125ba6059532440be4dd72c109e0d0384";
+  static String get _ogdApiKey => dotenv.env['OGD_API_KEY'] ?? "";
   static const String _ogdResourceId = "9ef84268-d588-465a-a308-a864a43d0070";
   static String get _geminiApiKey => dotenv.env['GEMINI_API_KEY'] ?? "";
 

@@ -1,0 +1,9 @@
+{
+  "name": "AgriSmart - AI Farming Companion",
+  "description": "A comprehensive smart agriculture app featuring disease detection, market prices, crop advisory, and farm analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

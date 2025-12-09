@@ -18,7 +18,7 @@ A comprehensive Flutter-based mobile application designed to empower farmers wit
 
 | Home & Dashboard | Disease Detection | AI Chatbot |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/home.png" width="250" /> | <img src="assets/screenshots/disease.png" width="250" /> | <img src="assets/screenshots/chatbot.png" width="250" /> |
+| <img src="assets/screenshots/home.png" width="250" /> | <img src="assets/screenshots/disease.png" width="250" /> <br> <img src="assets/screenshots/disease_result.png" width="250" /> | <img src="assets/screenshots/chatbot.png" width="250" /> |
 
 | Market Prices | Weather | Language Selection |
 |:---:|:---:|:---:|
